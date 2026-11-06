@@ -60,8 +60,8 @@ Quer trocar uma ideia sobre bots e automação? Fale comigo.
 
 | Canal         | Onde me encontrar                                          |
 |:--------------|:-----------------------------------------------------------|
-| **Telegram**  | [@SEU_USUARIO_TELEGRAM](https://t.me/SEU_USUARIO_TELEGRAM) |
-| **WhatsApp**  | [Chamar no WhatsApp](https://wa.me/55DDDNUMERO)            |
+| **Telegram**  | [@SEU_USUARIO_TELEGRAM](https://t.me/luizdev_PY) |
+| **WhatsApp**  | [Chamar no WhatsApp](https://wa.me/5584994568982)            |
 
 ---
 
