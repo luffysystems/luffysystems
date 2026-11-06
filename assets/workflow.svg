@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200" role="img" aria-label="Fluxo do bot de vendas: depósito via Pix, saldo na carteira, compra e entrega automática">
+  <defs><linearGradient id="c" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd43b"/><stop offset="1" stop-color="#7fb2e8"/></linearGradient></defs>
+  <rect width="900" height="200" rx="18" fill="#0a0f1f"/>
+  <text x="450" y="26" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" letter-spacing="3" fill="#6f86b8">COMO O BOT DE VENDAS FUNCIONA</text>
+  <g>
+    <rect x="20" y="40" width="170" height="130" rx="14" fill="#0d1530" stroke="#2a3a6b" stroke-width="1.5"/>
+    <circle cx="50" cy="72" r="15" fill="url(#c)"/>
+    <text x="50" y="78" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="800" fill="#0a0f1f">1</text>
+    <text x="34" y="118" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" fill="#eef3ff">Cliente deposita</text>
+    <text x="34" y="144" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#93a8d6">Pix copia e cola</text>
+  </g>
+  <g>
+    <rect x="250" y="40" width="170" height="130" rx="14" fill="#0d1530" stroke="#2a3a6b" stroke-width="1.5"/>
+    <circle cx="280" cy="72" r="15" fill="url(#c)"/>
+    <text x="280" y="78" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="800" fill="#0a0f1f">2</text>
+    <text x="264" y="118" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" fill="#eef3ff">Saldo na carteira</text>
+    <text x="264" y="144" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#93a8d6">Crédito após aprovar</text>
+  </g>
+  <g>
+    <rect x="480" y="40" width="170" height="130" rx="14" fill="#0d1530" stroke="#2a3a6b" stroke-width="1.5"/>
+    <circle cx="510" cy="72" r="15" fill="url(#c)"/>
+    <text x="510" y="78" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="800" fill="#0a0f1f">3</text>
+    <text x="494" y="118" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" fill="#eef3ff">Compra no bot</text>
+    <text x="494" y="144" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#93a8d6">Preço e desconto na hora</text>
+  </g>
+  <g>
+    <rect x="710" y="40" width="170" height="130" rx="14" fill="#0d1530" stroke="#2a3a6b" stroke-width="1.5"/>
+    <circle cx="740" cy="72" r="15" fill="url(#c)"/>
+    <text x="740" y="78" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="800" fill="#0a0f1f">4</text>
+    <text x="724" y="118" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" fill="#eef3ff">Entrega automática</text>
+    <text x="724" y="144" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#93a8d6">Confirmação para o cliente</text>
+  </g>
+  <path d="M196 105 H244" stroke="#ffd43b" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="6 6" fill="none">
+    <animate attributeName="stroke-dashoffset" values="24;0" dur="1.2s" repeatCount="indefinite"/></path>
+  <path d="M236 98 L246 105 L236 112" stroke="#ffd43b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M426 105 H474" stroke="#ffd43b" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="6 6" fill="none">
+    <animate attributeName="stroke-dashoffset" values="24;0" dur="1.2s" repeatCount="indefinite"/></path>
+  <path d="M466 98 L476 105 L466 112" stroke="#ffd43b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M656 105 H704" stroke="#ffd43b" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="6 6" fill="none">
+    <animate attributeName="stroke-dashoffset" values="24;0" dur="1.2s" repeatCount="indefinite"/></path>
+  <path d="M696 98 L706 105 L696 112" stroke="#ffd43b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
